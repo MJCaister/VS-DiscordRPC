@@ -8,7 +8,10 @@
   "authors": [
     "Muddxyii"
   ],
+  "contributors": [
+    "Predictive"
+  ],
   "dependencies": {
-    "game": "1.21.0"
+    "game": ">=1.21.0 <1.22.0"
   }
 }
